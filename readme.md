@@ -1,1 +1,0 @@
-# Bazaar - An ecommerce website
